@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzWeUQ4LFIOAnYm6KIzX6254M_r4JBXCfkg&s.jpg");
+    background-image: url("https://i.pinimg.com/originals/79/e4/ef/79e4efa6e52208b4c4d7100f3637f941.gif");
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: #014d40;
+    font-size: 48px;
+    font-family: "Lobster";
+}
+
+.user-input {
+    width: 150px;
+}
